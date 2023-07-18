@@ -25,3 +25,12 @@ This repository contains the code and resources associated with the paper titled
 - APIs/Endpoints
     - "https://www.wikidata.org/w/api.php"
     - "https://query.wikidata.org/sparql"    
+
+## **Usage**
+
+1. Download all the files from the **`Code/`** and **`Dataset/`** folder.
+2. Install the required dependencies and ensure access to the relevant APIs.
+3. Go to the **`Code/`** directory.
+4. Execute the preprocessing techniques on the dataset using the provided scripts, each annotated with the respective experiment numbers.
+5. Verify that the file paths inside the code files are correctly set for the corresponding dataset.
+6. For a comprehensive understanding of the preprocessing steps, refer to the reports provided in the F_E_Analysis folder.
